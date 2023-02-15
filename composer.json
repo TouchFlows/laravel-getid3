@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TouchFLows\\LaravelGetId3\\GetId3ServiceProvider"
+                "TouchFlows\\LaravelGetId3\\GetId3ServiceProvider"
             ]
         }
     }
